@@ -1,0 +1,279 @@
+{
+  "unite": "inconnue",
+  "exercice_N": "2025",
+  "exercice_N1": null,
+  "lignes": [
+    {
+      "poste": "Immobilisations corporelles",
+      "rubrique": "IMMOBILISATIONS CORPORELLES (C)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "398608.33",
+      "montant_net_N1": "455050.73"
+    },
+    {
+      "poste": "Constructions",
+      "rubrique": "IMMOBILISATIONS CORPORELLES (C)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "125412.79",
+      "montant_net_N1": "143134.69"
+    },
+    {
+      "poste": "Installations techniques, matériel et outillage",
+      "rubrique": "IMMOBILISATIONS CORPORELLES (C)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "267938.55",
+      "montant_net_N1": "305309.05"
+    },
+    {
+      "poste": "Mobilier, Matériel de bureau et aménagement divers",
+      "rubrique": "IMMOBILISATIONS CORPORELLES (C)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "5256.99",
+      "montant_net_N1": "6606.99"
+    },
+    {
+      "poste": "TOTAL I (A+B+C+D+E)",
+      "rubrique": "TOTAL I (A+B+C+D+E)",
+      "cote": "actif",
+      "type_ligne": "sous_total",
+      "montant_net_N": "398608.33",
+      "montant_net_N1": "455050.73"
+    },
+    {
+      "poste": "Stocks",
+      "rubrique": "STOCKS (F)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "221506.25",
+      "montant_net_N1": "290806.77"
+    },
+    {
+      "poste": "Matières et fournitures consommables",
+      "rubrique": "STOCKS (F)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "221506.25",
+      "montant_net_N1": "290806.77"
+    },
+    {
+      "poste": "Créances de l'actif circulant",
+      "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "2960041.51",
+      "montant_net_N1": "1707914.11"
+    },
+    {
+      "poste": "Clients et comptes rattachés",
+      "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "2462210.41",
+      "montant_net_N1": "1295962.86"
+    },
+    {
+      "poste": "Personnel",
+      "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "4000.00",
+      "montant_net_N1": "4000.00"
+    },
+    {
+      "poste": "Etat",
+      "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "353831.10",
+      "montant_net_N1": "267951.25"
+    },
+    {
+      "poste": "Comptes d'associés",
+      "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "100000.00",
+      "montant_net_N1": "100000.00"
+    },
+    {
+      "poste": "Autres débiteurs",
+      "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "40000.00",
+      "montant_net_N1": "40000.00"
+    },
+    {
+      "poste": "TOTAL II (F+G+H+I)",
+      "rubrique": "TOTAL II (F+G+H+I)",
+      "cote": "actif",
+      "type_ligne": "sous_total",
+      "montant_net_N": "3181547.76",
+      "montant_net_N1": "1998720.88"
+    },
+    {
+      "poste": "Trésorerie-Actif",
+      "rubrique": "TRESORERIE - ACTIF",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "5637.63",
+      "montant_net_N1": "845.77"
+    },
+    {
+      "poste": "Caisse, Régie d'avances et accréditifs",
+      "rubrique": "TRESORERIE - ACTIF",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "5637.63",
+      "montant_net_N1": "845.77"
+    },
+    {
+      "poste": "TOTAL III",
+      "rubrique": "TOTAL III",
+      "cote": "actif",
+      "type_ligne": "sous_total",
+      "montant_net_N": "5637.63",
+      "montant_net_N1": "845.77"
+    },
+    {
+      "poste": "TOTAL GENERAL I+II+III",
+      "rubrique": "TOTAL GENERAL I+II+III",
+      "cote": "actif",
+      "type_ligne": "total_general",
+      "montant_net_N": "3585793.72",
+      "montant_net_N1": "2454617.38"
+    },
+    {
+      "poste": "Capital social ou personnel",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "100000.00",
+      "montant_net_N1": "100000.00"
+    },
+    {
+      "poste": "Moins : Capital appelé",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "100000.00",
+      "montant_net_N1": "100000.00"
+    },
+    {
+      "poste": "Report à nouveau",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "-483691.10",
+      "montant_net_N1": "-586830.31"
+    },
+    {
+      "poste": "Résultat net de l'exercice",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "372505.36",
+      "montant_net_N1": "103139.21"
+    },
+    {
+      "poste": "Total des capitaux propres (A)",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "sous_total",
+      "montant_net_N": "-11185.74",
+      "montant_net_N1": "-383691.10"
+    },
+    {
+      "poste": "TOTAL I (A+B+C+D+E)",
+      "rubrique": "TOTAL I (A+B+C+D+E)",
+      "cote": "passif",
+      "type_ligne": "sous_total",
+      "montant_net_N": "-11185.74",
+      "montant_net_N1": "-383691.10"
+    },
+    {
+      "poste": "Dettes du passif circulant",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "2882234.28",
+      "montant_net_N1": "1828051.60"
+    },
+    {
+      "poste": "Fournisseurs et comptes rattachés",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "1814187.07",
+      "montant_net_N1": "1109508.19"
+    },
+    {
+      "poste": "Personnel",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "13236.59",
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Organismes sociaux",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "21314.58",
+      "montant_net_N1": "35260.93"
+    },
+    {
+      "poste": "Etat",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "983496.04",
+      "montant_net_N1": "613482.48"
+    },
+    {
+      "poste": "Autres créanciers",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "50000.00",
+      "montant_net_N1": "69800.00"
+    },
+    {
+      "poste": "TOTAL II (F+G+H)",
+      "rubrique": "TOTAL II (F+G+H)",
+      "cote": "passif",
+      "type_ligne": "sous_total",
+      "montant_net_N": "2882234.28",
+      "montant_net_N1": "1828051.60"
+    },
+    {
+      "poste": "Banques (soldes créditeurs)",
+      "rubrique": "TRESORERIE - PASSIF",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "714745.18",
+      "montant_net_N1": "1010256.88"
+    },
+    {
+      "poste": "TOTAL III",
+      "rubrique": "TOTAL III",
+      "cote": "passif",
+      "type_ligne": "sous_total",
+      "montant_net_N": "714745.18",
+      "montant_net_N1": "1010256.88"
+    },
+    {
+      "poste": "TOTAL GENERAL I+II+III",
+      "rubrique": "TOTAL GENERAL I+II+III",
+      "cote": "passif",
+      "type_ligne": "total_general",
+      "montant_net_N": "3585793.72",
+      "montant_net_N1": "2454617.38"
+    }
+  ]
+}

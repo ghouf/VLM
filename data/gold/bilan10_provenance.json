@@ -1,0 +1,28 @@
+{
+  "source": "bilan_group_10.pdf",
+  "sha256": "ed66fdfb750daf268e870f2a385e3abf7db83428b764cb40afddcd7b4ed34168",
+  "pdf_pages": [
+    1,
+    2,
+    3
+  ],
+  "printed_pages": [
+    2,
+    3,
+    4
+  ],
+  "method": "Transcription par assistant depuis les pages rendues; aucune sortie de modele consultee.",
+  "human_review_status": "A relire par une personne; pas encore une double annotation humaine.",
+  "row_count": 91,
+  "net_numeric_cells": 67,
+  "notes": [
+    "Les annees ne sont pas imprimees. La date de depot 29/03/2025 n'est pas un exercice.",
+    "Aucune unite explicite sur ces trois pages: inconnue, sans conversion.",
+    "Cellules vides conservees null, meme si une somme permettrait d'inferer zero.",
+    "Brut et amortissements N-1 absents; tous null. Brut et amortissements au passif absents.",
+    "Libelles de marge fusionnee non dupliques. Les lignes de groupe dans la colonne des postes sont incluses une seule fois.",
+    "Capital appele et Dont verse sont des informations de decomposition: ne pas les additionner une seconde fois au capital social.",
+    "Les rubriques utilisent les libelles de marge; leur correspondance aux sorties est a verifier avant interpretation des scores.",
+    "La version Net est destinee a l'evaluation actuelle. La version complete exige l'extension du score aux champs Brut et Amort pour les evaluer."
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "directory": "results\\gpt-02",
+    "model": "gpt-4o",
+    "attempts": 3,
+    "request_errors": 0,
+    "json_valid_rate": 1,
+    "schema_valid_rate": 1,
+    "latency_median_all_s": 12.103074500002549,
+    "latency_median_success_s": 12.103074500002549,
+    "input_tokens_mean": 5029,
+    "output_tokens_mean": 1946.6666666666667,
+    "cost_known_attempts": 0,
+    "cost_mean_known_usd": null,
+    "cost_total_usd": null,
+    "row_recall": 0.304029304029304,
+    "row_precision": 0.8214497920380273,
+    "cell_accuracy": 0.3021978021978022,
+    "numeric_accuracy": 0.8109452736318408,
+    "metadata_accuracy": 0.6666666666666666
+  }
+]

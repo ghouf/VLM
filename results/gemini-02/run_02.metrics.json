@@ -1,0 +1,13 @@
+{
+  "repeat": 2,
+  "model": "gemini-2.5-flash",
+  "valid_json": false,
+  "valid_schema": false,
+  "cost_usd_estimate": null,
+  "error": "ClientError: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Invalid JSON payload received. Unknown name \"additional_properties\" at \\'generation_config.response_schema\\': Cannot find field.\\nInvalid JSON payload received. Unknown name \"additional_properties\" at \\'generation_config.response_schema.properties[3].value.items\\': Cannot find field.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.BadRequest', 'fieldViolations': [{'field': 'generation_config.response_schema', 'description': 'Invalid JSON payload received. Unknown name \"additional_properties\" at \\'generation_config.response_schema\\': Cannot find field.'}, {'field': 'generation_config.response_schema.properties[3].value.items', 'description': 'Invalid JSON payload received. Unknown name \"additional_properties\" at \\'generation_config.response_schema.properties[3].value.items\\': Cannot find field.'}]}]}}",
+  "latency_seconds": 0.21711010000581155,
+  "input_tokens": null,
+  "output_tokens": null,
+  "usage": {},
+  "finish": null
+}

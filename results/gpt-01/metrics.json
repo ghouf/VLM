@@ -1,0 +1,28 @@
+{
+  "provider": "gpt",
+  "model": "gpt-4.1-mini",
+  "pdf": "bilan_group_10.pdf",
+  "valid_json": true,
+  "valid_schema": true,
+  "cost_usd_estimate": null,
+  "latency_seconds": 57.916267099994,
+  "input_tokens": 6498,
+  "output_tokens": 6410,
+  "usage": {
+    "input_tokens": 6498,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      }
+    },
+    "output_tokens": 6410,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 12908
+  },
+  "finish": "completed"
+}

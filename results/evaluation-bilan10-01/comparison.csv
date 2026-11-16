@@ -1,0 +1,2 @@
+﻿directory,model,attempts,request_errors,json_valid_rate,schema_valid_rate,latency_median_all_s,latency_median_success_s,input_tokens_mean,output_tokens_mean,cost_known_attempts,cost_mean_known_usd,cost_total_usd,row_recall,row_precision,cell_accuracy,numeric_accuracy,metadata_accuracy
+results\gpt-02,gpt-4o,3,0,1,1,12.103074500002549,12.103074500002549,5029,1946.6666666666667,0,,,0.304029304029304,0.8214497920380273,0.3021978021978022,0.8109452736318408,0.6666666666666666

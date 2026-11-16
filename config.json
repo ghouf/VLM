@@ -1,0 +1,23 @@
+{
+  "api_active": "openai",
+  "apis": {
+    "openai": {
+      "model": "gpt-4o",
+      "key_env": "OPENAI_API_KEY",
+      "pricing_usd_per_million_tokens": {
+        "input": null,
+        "cached_input": null,
+        "output": null
+      }
+    },
+    "gemini": {
+      "model": "gemini-3.8-flash",
+      "key_env": "GEMINI_API_KEY",
+      "pricing_usd_per_million_tokens": {
+        "input": null,
+        "cached_input": null,
+        "output": null
+      }
+    }
+  }
+}

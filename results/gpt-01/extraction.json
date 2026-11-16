@@ -1,0 +1,695 @@
+{
+  "unite": "MAD",
+  "exercice_N": "2025",
+  "exercice_N1": "2024",
+  "lignes": [
+    {
+      "poste": "Immobilisations en non valeurs (A)",
+      "rubrique": "IMMOBILISATION EN NON VALEURS (A)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Frais préliminaires",
+      "rubrique": "IMMOBILISATION EN NON VALEURS (A)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Charges à répartir sur plusieurs exercices",
+      "rubrique": "IMMOBILISATION EN NON VALEURS (A)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Primes de remboursement des obligations",
+      "rubrique": "IMMOBILISATION EN NON VALEURS (A)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Immobilisations incorporelles (B)",
+      "rubrique": "IMMOBILISATIONS INCORPORELLES (B)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Immobilisations en recherche et développement",
+      "rubrique": "IMMOBILISATIONS INCORPORELLES (B)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Brevets, marques, droits et valeurs similaires",
+      "rubrique": "IMMOBILISATIONS INCORPORELLES (B)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Fonds commercial",
+      "rubrique": "IMMOBILISATIONS INCORPORELLES (B)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Autres immobilisations incorporelles",
+      "rubrique": "IMMOBILISATIONS INCORPORELLES (B)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Immobilisations corporelles (C)",
+      "rubrique": "IMMOBILISATIONS CORPORELLES et outillage (C)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "398608.33",
+      "montant_net_N1": "455050.73"
+    },
+    {
+      "poste": "Terrains",
+      "rubrique": "IMMOBILISATIONS CORPORELLES et outillage (C)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Constructions",
+      "rubrique": "IMMOBILISATIONS CORPORELLES et outillage (C)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "125412.79",
+      "montant_net_N1": "143134.69"
+    },
+    {
+      "poste": "Installations techniques, matériel et outillage",
+      "rubrique": "IMMOBILISATIONS CORPORELLES et outillage (C)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "267938.55",
+      "montant_net_N1": "305309.05"
+    },
+    {
+      "poste": "Matériel de transport",
+      "rubrique": "IMMOBILISATIONS CORPORELLES et outillage (C)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Mobilier, Matériel de bureau et aménagement divers",
+      "rubrique": "IMMOBILISATIONS CORPORELLES et outillage (C)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "5256.99",
+      "montant_net_N1": "6606.99"
+    },
+    {
+      "poste": "Autres immobilisations corporelles",
+      "rubrique": "IMMOBILISATIONS CORPORELLES et outillage (C)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Immobilisations corporelles en cours",
+      "rubrique": "IMMOBILISATIONS CORPORELLES et outillage (C)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Immobilisations financières (D)",
+      "rubrique": "IMMOBILISATIONS FINANCIERES (D)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Prêts immobilisés",
+      "rubrique": "IMMOBILISATIONS FINANCIERES (D)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Autres créances financières",
+      "rubrique": "IMMOBILISATIONS FINANCIERES (D)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Titres de participation",
+      "rubrique": "IMMOBILISATIONS FINANCIERES (D)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Autres titres immobilisés",
+      "rubrique": "IMMOBILISATIONS FINANCIERES (D)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Ecarts de conversion actif (E)",
+      "rubrique": "ECARTS DE CONVERSION - ACTIF (E)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "TOTAL I (A+B+C+D+E)",
+      "rubrique": "TOTAL I (A+B+C+D+E)",
+      "cote": "actif",
+      "type_ligne": "sous_total",
+      "montant_net_N": "398608.33",
+      "montant_net_N1": "455050.73"
+    },
+    {
+      "poste": "Stocks (F)",
+      "rubrique": "STOCKS (F)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "221506.25",
+      "montant_net_N1": "290806.77"
+    },
+    {
+      "poste": "Marchandises",
+      "rubrique": "STOCKS (F)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Matières et fournitures consommables",
+      "rubrique": "STOCKS (F)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "221506.25",
+      "montant_net_N1": "290806.77"
+    },
+    {
+      "poste": "Produits en cours",
+      "rubrique": "STOCKS (F)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Produits intermédiaires et produits résiduels",
+      "rubrique": "STOCKS (F)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Produits finis",
+      "rubrique": "STOCKS (F)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Créances de l'actif circulant (G)",
+      "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "2960041.51",
+      "montant_net_N1": "1707914.11"
+    },
+    {
+      "poste": "Fournis. débiteurs, avances et acomptes",
+      "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Clients et comptes rattachés",
+      "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "2462210.41",
+      "montant_net_N1": "1295962.86"
+    },
+    {
+      "poste": "Personnel",
+      "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "4000",
+      "montant_net_N1": "4000"
+    },
+    {
+      "poste": "Etat",
+      "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "353831.10",
+      "montant_net_N1": "267951.25"
+    },
+    {
+      "poste": "Comptes d'associés",
+      "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "100000",
+      "montant_net_N1": "100000"
+    },
+    {
+      "poste": "Autres débiteurs",
+      "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "40000",
+      "montant_net_N1": "40000"
+    },
+    {
+      "poste": "Comptes de régularisation- Actif",
+      "rubrique": "CREANCES DE L'ACTIF CIRCULANT (G)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Titres valeurs de placement (H)",
+      "rubrique": "TITRES VALEURS DE PLACEMENT (H)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Ecarts de conversion actif (I)",
+      "rubrique": "ECARTS DE CONVERSION - ACTIF (I)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Eléments circulants",
+      "rubrique": "ECARTS DE CONVERSION - ACTIF (I)",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "TOTAL II (F+G+H+I)",
+      "rubrique": "TOTAL II (F+G+H+I)",
+      "cote": "actif",
+      "type_ligne": "sous_total",
+      "montant_net_N": "3181547.76",
+      "montant_net_N1": "1998720.88"
+    },
+    {
+      "poste": "Trésorerie-Actif",
+      "rubrique": "TRESORERIE - ACTIF",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "5637.63",
+      "montant_net_N1": "845.77"
+    },
+    {
+      "poste": "Chèques et valeurs à encaisser",
+      "rubrique": "TRESORERIE - ACTIF",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Banques, T.G et C.C.P",
+      "rubrique": "TRESORERIE - ACTIF",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Caisse, Régie d'avances et accréditifs",
+      "rubrique": "TRESORERIE - ACTIF",
+      "cote": "actif",
+      "type_ligne": "detail",
+      "montant_net_N": "5637.63",
+      "montant_net_N1": "845.77"
+    },
+    {
+      "poste": "TOTAL III",
+      "rubrique": "TOTAL III",
+      "cote": "actif",
+      "type_ligne": "sous_total",
+      "montant_net_N": "5637.63",
+      "montant_net_N1": "845.77"
+    },
+    {
+      "poste": "TOTAL GENERAL I+II+III",
+      "rubrique": "TOTAL GENERAL I+II+III",
+      "cote": "actif",
+      "type_ligne": "total_general",
+      "montant_net_N": "3585793.72",
+      "montant_net_N1": "2454617.38"
+    },
+    {
+      "poste": "Capital social ou personnel (1)",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "100000",
+      "montant_net_N1": "100000"
+    },
+    {
+      "poste": "Moins : actionnaires, capital souscrit non appelé",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Moins : Capital appelé",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "100000",
+      "montant_net_N1": "100000"
+    },
+    {
+      "poste": "Moins : Dont versé",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Prime d'émission, de fusion, d'apport",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Ecarts de réévaluation",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Réserve légale",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Autres réserves",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Report à nouveau (2)",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "-483691.10",
+      "montant_net_N1": "-586830.31"
+    },
+    {
+      "poste": "Résultats nets en instance d'affectation (2)",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Résultat net de l'exercice (2)",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "372505.36",
+      "montant_net_N1": "103139.21"
+    },
+    {
+      "poste": "Total des capitaux propres (A)",
+      "rubrique": "CAPITAUX PROPRES (A)",
+      "cote": "passif",
+      "type_ligne": "sous_total",
+      "montant_net_N": "-11185.74",
+      "montant_net_N1": "-383691.10"
+    },
+    {
+      "poste": "Capitaux propres assimilés (B)",
+      "rubrique": "CAPITAUX PROPRES ASSIMILES (B)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Subvention d'investissement",
+      "rubrique": "CAPITAUX PROPRES ASSIMILES (B)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Provisions réglementées",
+      "rubrique": "CAPITAUX PROPRES ASSIMILES (B)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Dettes de financement (C)",
+      "rubrique": "DETTES DE FINANCEMENT (C)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Emprunts obligataires",
+      "rubrique": "DETTES DE FINANCEMENT (C)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Autres dettes de financement",
+      "rubrique": "DETTES DE FINANCEMENT (C)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Provisions durables pour risques et charges (D)",
+      "rubrique": "PROVISIONS DURABLES POUR RISQUES ET CHARGES (D)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Provisions pour risques",
+      "rubrique": "PROVISIONS DURABLES POUR RISQUES ET CHARGES (D)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Provisions pour charges",
+      "rubrique": "PROVISIONS DURABLES POUR RISQUES ET CHARGES (D)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Ecarts de conversion-passif (E)",
+      "rubrique": "ECARTS DE CONVERSION - PASSIF (E)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "TOTAL I (A+B+C+D+E)",
+      "rubrique": "TOTAL I (A+B+C+D+E)",
+      "cote": "passif",
+      "type_ligne": "sous_total",
+      "montant_net_N": "-11185.74",
+      "montant_net_N1": "-383691.10"
+    },
+    {
+      "poste": "Dettes du passif circulant (F)",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "2882234.28",
+      "montant_net_N1": "1828051.60"
+    },
+    {
+      "poste": "Fournisseurs et comptes rattachés",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "1814187.07",
+      "montant_net_N1": "1109508.19"
+    },
+    {
+      "poste": "Clients créditeurs, avances et acomptes",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Personnel",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "13236.59",
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Organismes sociaux",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "21314.58",
+      "montant_net_N1": "35260.93"
+    },
+    {
+      "poste": "Etat",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "983496.04",
+      "montant_net_N1": "613482.48"
+    },
+    {
+      "poste": "Comptes d'associés",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Autres créanciers",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "50000",
+      "montant_net_N1": "69800"
+    },
+    {
+      "poste": "Comptes de régularisation passif",
+      "rubrique": "DETTES DU PASSIF CIRCULANT (F)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Autres provisions pour risques et charges (G)",
+      "rubrique": "AUTRES PROVISIONS POUR RISQUES ET CHARGES (G)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "Ecarts de conversion - passif (Eléments circulants) (H)",
+      "rubrique": "ECARTS DE CONVERSION - PASSIF (ELEMENTS CIRCULANTS) (H)",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": null,
+      "montant_net_N1": null
+    },
+    {
+      "poste": "TOTAL II (F+G+H)",
+      "rubrique": "TOTAL II (F+G+H)",
+      "cote": "passif",
+      "type_ligne": "sous_total",
+      "montant_net_N": "2882234.28",
+      "montant_net_N1": "1828051.60"
+    },
+    {
+      "poste": "Banques (soldes créditeurs)",
+      "rubrique": "TRESORERIE - PASSIF",
+      "cote": "passif",
+      "type_ligne": "detail",
+      "montant_net_N": "714745.18",
+      "montant_net_N1": "1010256.88"
+    },
+    {
+      "poste": "TOTAL III",
+      "rubrique": "TOTAL III",
+      "cote": "passif",
+      "type_ligne": "sous_total",
+      "montant_net_N": "714745.18",
+      "montant_net_N1": "1010256.88"
+    },
+    {
+      "poste": "TOTAL GENERAL I+II+III",
+      "rubrique": "TOTAL GENERAL I+II+III",
+      "cote": "passif",
+      "type_ligne": "total_general",
+      "montant_net_N": "3585793.72",
+      "montant_net_N1": "2454617.38"
+    }
+  ]
+}

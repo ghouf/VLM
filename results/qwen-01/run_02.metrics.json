@@ -1,0 +1,13 @@
+{
+  "repeat": 2,
+  "model": "qwen3-vl:4b",
+  "valid_json": false,
+  "valid_schema": false,
+  "cost_usd_estimate": null,
+  "error": "HTTPError: 404 Client Error: Not Found for url: http://localhost:11434/api/chat",
+  "latency_seconds": 2.2922403999982635,
+  "input_tokens": null,
+  "output_tokens": null,
+  "usage": {},
+  "finish": null
+}

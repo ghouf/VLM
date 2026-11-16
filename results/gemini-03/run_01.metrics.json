@@ -1,0 +1,13 @@
+{
+  "repeat": 1,
+  "model": "gemini-2.5-flash",
+  "valid_json": false,
+  "valid_schema": false,
+  "cost_usd_estimate": null,
+  "error": "ClientError: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The Gemini API free tier is not available for this project. To use the Gemini API, please set up billing to upgrade to the paid tier at https://aistudio.google.com/billing. For more information, see https://ai.google.dev/gemini-api/docs/troubleshooting#project-unavailable.', 'status': 'PERMISSION_DENIED'}}",
+  "latency_seconds": 0.6083924000049592,
+  "input_tokens": null,
+  "output_tokens": null,
+  "usage": {},
+  "finish": null
+}

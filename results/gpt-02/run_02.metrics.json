@@ -1,0 +1,27 @@
+{
+  "repeat": 2,
+  "model": "gpt-4o",
+  "valid_json": true,
+  "valid_schema": true,
+  "cost_usd_estimate": null,
+  "latency_seconds": 15.819328899997345,
+  "input_tokens": 5029,
+  "output_tokens": 1965,
+  "usage": {
+    "input_tokens": 5029,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      }
+    },
+    "output_tokens": 1965,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 6994
+  },
+  "finish": "completed"
+}

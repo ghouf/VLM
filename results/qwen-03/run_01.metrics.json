@@ -1,0 +1,13 @@
+{
+  "repeat": 1,
+  "model": "qwen3-vl:4b",
+  "valid_json": false,
+  "valid_schema": false,
+  "cost_usd_estimate": null,
+  "error": "ReadTimeout: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=600)",
+  "latency_seconds": 602.4022136999993,
+  "input_tokens": null,
+  "output_tokens": null,
+  "usage": {},
+  "finish": null
+}
